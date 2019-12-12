@@ -1,0 +1,29 @@
+C:\Lecture\_5_CSharp\_2019_08_21\_19_NetworkStreamMultiServerFormPacket\bin\Debug\_19_NetworkStreamMultiServerFormPacket.exe.config
+C:\Lecture\_5_CSharp\_2019_08_21\_19_NetworkStreamMultiServerFormPacket\bin\Debug\_19_NetworkStreamMultiServerFormPacket.exe
+C:\Lecture\_5_CSharp\_2019_08_21\_19_NetworkStreamMultiServerFormPacket\bin\Debug\_19_NetworkStreamMultiServerFormPacket.pdb
+C:\Lecture\_5_CSharp\_2019_08_21\_19_NetworkStreamMultiServerFormPacket\obj\Debug\_19_NetworkStreamMultiServerFormPacket.Form1.resources
+C:\Lecture\_5_CSharp\_2019_08_21\_19_NetworkStreamMultiServerFormPacket\obj\Debug\_19_NetworkStreamMultiServerFormPacket.Properties.Resources.resources
+C:\Lecture\_5_CSharp\_2019_08_21\_19_NetworkStreamMultiServerFormPacket\obj\Debug\_19_NetworkStreamMultiServerFormPacket.csproj.GenerateResource.cache
+C:\Lecture\_5_CSharp\_2019_08_21\_19_NetworkStreamMultiServerFormPacket\obj\Debug\_19_NetworkStreamMultiServerFormPacket.csproj.CoreCompileInputs.cache
+C:\Lecture\_5_CSharp\_2019_08_21\_19_NetworkStreamMultiServerFormPacket\obj\Debug\_19_NetworkStreamMultiServerFormPacket.exe
+C:\Lecture\_5_CSharp\_2019_08_21\_19_NetworkStreamMultiServerFormPacket\obj\Debug\_19_NetworkStreamMultiServerFormPacket.pdb
+C:\Lecture\_5_CSharp\_2019_08_21\_19_NetworkStreamMultiServerFormPacket\obj\Debug\_19_NetworkStreamMultiServerFormPacket.csprojAssemblyReference.cache
+C:\Lecture\_5_CSharp\팀프로젝트(CSharp)\_19_NetworkStreamMultiServerFormPacket\bin\Debug\_19_NetworkStreamMultiServerFormPacket.exe.config
+C:\Lecture\_5_CSharp\팀프로젝트(CSharp)\_19_NetworkStreamMultiServerFormPacket\bin\Debug\_19_NetworkStreamMultiServerFormPacket.exe
+C:\Lecture\_5_CSharp\팀프로젝트(CSharp)\_19_NetworkStreamMultiServerFormPacket\bin\Debug\_19_NetworkStreamMultiServerFormPacket.pdb
+C:\Lecture\_5_CSharp\팀프로젝트(CSharp)\_19_NetworkStreamMultiServerFormPacket\obj\Debug\_19_NetworkStreamMultiServerFormPacket.csprojAssemblyReference.cache
+C:\Lecture\_5_CSharp\팀프로젝트(CSharp)\_19_NetworkStreamMultiServerFormPacket\obj\Debug\_19_NetworkStreamMultiServerFormPacket.Form1.resources
+C:\Lecture\_5_CSharp\팀프로젝트(CSharp)\_19_NetworkStreamMultiServerFormPacket\obj\Debug\_19_NetworkStreamMultiServerFormPacket.Properties.Resources.resources
+C:\Lecture\_5_CSharp\팀프로젝트(CSharp)\_19_NetworkStreamMultiServerFormPacket\obj\Debug\_19_NetworkStreamMultiServerFormPacket.csproj.GenerateResource.cache
+C:\Lecture\_5_CSharp\팀프로젝트(CSharp)\_19_NetworkStreamMultiServerFormPacket\obj\Debug\_19_NetworkStreamMultiServerFormPacket.csproj.CoreCompileInputs.cache
+C:\Lecture\_5_CSharp\팀프로젝트(CSharp)\_19_NetworkStreamMultiServerFormPacket\obj\Debug\_19_NetworkStreamMultiServerFormPacket.exe
+C:\Lecture\_5_CSharp\팀프로젝트(CSharp)\_19_NetworkStreamMultiServerFormPacket\obj\Debug\_19_NetworkStreamMultiServerFormPacket.pdb
+C:\Users\rbh71\OneDrive\바탕 화면\공유문서\Lecture\_5_CSharp\팀프로젝트(CSharp)\_19_NetworkStreamMultiServerFormPacket\bin\Debug\_19_NetworkStreamMultiServerFormPacket.exe.config
+C:\Users\rbh71\OneDrive\바탕 화면\공유문서\Lecture\_5_CSharp\팀프로젝트(CSharp)\_19_NetworkStreamMultiServerFormPacket\bin\Debug\_19_NetworkStreamMultiServerFormPacket.exe
+C:\Users\rbh71\OneDrive\바탕 화면\공유문서\Lecture\_5_CSharp\팀프로젝트(CSharp)\_19_NetworkStreamMultiServerFormPacket\bin\Debug\_19_NetworkStreamMultiServerFormPacket.pdb
+C:\Users\rbh71\OneDrive\바탕 화면\공유문서\Lecture\_5_CSharp\팀프로젝트(CSharp)\_19_NetworkStreamMultiServerFormPacket\obj\Debug\_19_NetworkStreamMultiServerFormPacket.csprojAssemblyReference.cache
+C:\Users\rbh71\OneDrive\바탕 화면\공유문서\Lecture\_5_CSharp\팀프로젝트(CSharp)\_19_NetworkStreamMultiServerFormPacket\obj\Debug\_19_NetworkStreamMultiServerFormPacket.Form1.resources
+C:\Users\rbh71\OneDrive\바탕 화면\공유문서\Lecture\_5_CSharp\팀프로젝트(CSharp)\_19_NetworkStreamMultiServerFormPacket\obj\Debug\_19_NetworkStreamMultiServerFormPacket.Properties.Resources.resources
+C:\Users\rbh71\OneDrive\바탕 화면\공유문서\Lecture\_5_CSharp\팀프로젝트(CSharp)\_19_NetworkStreamMultiServerFormPacket\obj\Debug\_19_NetworkStreamMultiServerFormPacket.csproj.GenerateResource.cache
+C:\Users\rbh71\OneDrive\바탕 화면\공유문서\Lecture\_5_CSharp\팀프로젝트(CSharp)\_19_NetworkStreamMultiServerFormPacket\obj\Debug\_19_NetworkStreamMultiServerFormPacket.exe
+C:\Users\rbh71\OneDrive\바탕 화면\공유문서\Lecture\_5_CSharp\팀프로젝트(CSharp)\_19_NetworkStreamMultiServerFormPacket\obj\Debug\_19_NetworkStreamMultiServerFormPacket.pdb
