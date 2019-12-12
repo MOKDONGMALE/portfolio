@@ -1,0 +1,7 @@
+﻿  main.cpp
+  PCcontroller.cpp
+  PCview.cpp
+  turboc.cpp
+  코드를 생성하고 있습니다...
+C:\Users\rbh71\OneDrive\바탕 화면\공유문서\Lecture\_4_CPP\bitPC방\bitPC방\main.cpp(39,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  bitPC방.vcxproj -> C:\Users\rbh71\OneDrive\바탕 화면\공유문서\Lecture\_4_CPP\bitPC방\Debug\bitPC방.exe
